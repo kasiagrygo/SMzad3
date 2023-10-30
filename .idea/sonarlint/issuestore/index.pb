@@ -1,0 +1,27 @@
+
+f
+6app/src/main/java/com/example/smzad3/MainActivity.java,9\f\9fb308dbfb7cf5a6c2b75a768bb7ad48bc17adf2
+^
+.app/src/main/java/com/example/smzad3/Task.java,f\d\fde5db4255c8056ab76676e791a73db7ebe99e19
+f
+6app/src/main/java/com/example/smzad3/TaskFragment.java,d\d\dd7eb63de4862ad4ff9d380b20319ad7004ca507
+C
+settings.gradle.kts,7\4\749edfcc96398253e5b3416184e95c46621da850
+@
+local.properties,0\7\0712df971a99ac4d2fccb8e0fb19f377f3374cca
+A
+gradle.properties,2\a\2afbb999f001938c88fa43fc2ef52abf0f8213e4
+@
+build.gradle.kts,d\b\dbcff70658daf80b53ce624f6adcaa529df5ed8d
+D
+app/build.gradle.kts,d\2\d2a4383452aad84a18429a5844d31330a012a9e6
+e
+5app/src/main/java/com/example/smzad3/TaskStorage.java,7\7\77f7ab18d8b7140969b4aacfe98bae31bb7d0a94
+j
+:app/src/main/java/com/example/smzad3/TaskListActivity.java,d\c\dc40acaf1ed19165e08bafd38458c980432e0129
+j
+:app/src/main/java/com/example/smzad3/TaskListFragment.java,6\a\6abef2cb5a0a4199ce2071918f1569e57a0f4966
+p
+@app/src/main/java/com/example/smzad3/SingleFragmentActivity.java,6\2\6299fe382570f8d431d984c17b14df49950a8043
+P
+ app/src/main/AndroidManifest.xml,8\c\8c55c3ccc257e5907959013f99656e4c8ec3903e
